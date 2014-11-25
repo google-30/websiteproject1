@@ -1,0 +1,6 @@
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\bin\Websiteproject1.dll.config
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\bin\Websiteproject1.dll
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\bin\Websiteproject1.pdb
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\obj\Debug\Websiteproject1.csprojResolveAssemblyReference.cache
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\obj\Debug\Websiteproject1.dll
+c:\users\x14106396\documents\visual studio 2013\Projects\Websiteproject1\Websiteproject1\obj\Debug\Websiteproject1.pdb
